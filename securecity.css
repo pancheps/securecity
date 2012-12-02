@@ -17,8 +17,8 @@ body {
 
 #menu-wrapper {
 	overflow: visible;
-	height: 33px;
-	background: #000000;
+	height: 32px;
+	background: #888888;
 }
 
 #menu {
@@ -33,8 +33,9 @@ body {
 	text-align: center;
 }
 
-#menu li {
+.rightitem {
 	display: inline-block;
+	float:left;
 }
 
 #menu a {
@@ -67,11 +68,20 @@ body {
 
 #header{
 	width: 100%;
-	background:#501010;
+	background:#CE1719;
 }
 #header-content{
+	width: 80%;
 	font-family:Verdana, Geneva, sans-serif;
 	font-size:16px;
+}
+.header-right {
+	width: 180px;
+	float:right;
+	background-color:#0C3;
+	margin-top:12px;
+	font-size:14px;
+	color:#FFF;
 }
 
 .bigger {
@@ -85,5 +95,25 @@ body {
 
 #map_canvas { 
 	width: 100%;
-	height: 525px;
+/*	height: 525px;
+*/}
+
+.end {
+	float: right;
+	background-color: #DEB742;
 }
+
+.hidden {
+	display:none;
+	width: 100px;
+	height: 200px;
+}
+
+.hidden1 {
+	display:none;
+}
+
+#innerformulario {
+	padding:20px;
+}
+
