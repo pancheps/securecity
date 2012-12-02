@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -58,3 +59,9 @@
     </div>
 </body>
 </html>
+=======
+<?php
+ Hello World
+
+?>
+>>>>>>> be7ed5797349d2d049b5664ec464dfc00676bca1
